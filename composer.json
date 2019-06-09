@@ -1,0 +1,19 @@
+{
+    "name": "bni/curl",
+    "description": "PHP Curl Helper",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Belajar Ngeweb ID",
+            "email": "halobni@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "BNI\\": "src\\Curl\\"
+        }
+    },
+    "require": {}
+}
