@@ -29,7 +29,7 @@ class YourController {
 ```
 ## API
 | Function | Usage |
-|------------------|
+|----------|-------|
 |get(`null`)|initialize get request|
 |post(`null`)|initialize post request|
 |url(`string`)|set URL / endpoint|
