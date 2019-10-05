@@ -53,3 +53,6 @@ class YourController {
 Feel free to make a big change to this repository. It will help lots of people who didn't know about using curl natively in PHP or someone who don't want use complex built-in function and it will speed up his work.
 
 Make new  branch and create new pull request will be your big step.
+
+## Contact
+You can contact me about this repository via telegram on [@haloriyan](https://t.me/haloriyan "Contact via telegram")
