@@ -60,6 +60,11 @@ class Curl {
         curl_setopt(self::$ch, CURLOPT_POSTFIELDS, $param);
         return new Curl;
     }
+    public function timeout($param) {
+        curl_setopt(self::$ch, CURLOPT_TIMEOUT, $param);
+
+        return new Curl;
+    }
     public function options($optName, $optValue) {
         curl_setopt(self::$ch, $optName, $optValue);
         return new Curl;
