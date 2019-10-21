@@ -36,6 +36,7 @@ class YourController {
 |parameter(`array`)|set URL parameters|
 |header(`array`)|set headers request|
 |body(`array`)|post form field|
+|timeout(`integer`)|maximum number of seconds for curl to execute|
 |options(`string` $optionName, `depending optname` $optionValue)|set your own options|
 |eksekusi(`null`)|run your request|
 
